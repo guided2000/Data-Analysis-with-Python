@@ -15,7 +15,7 @@ This project is a comprehensive assignment for data analysis using Python. It de
 ## How to Use
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/yourusername/Data_Analysis_with_Python.git
+   git clone https://github.com/guided2000/Data_Analysis_with_Python.git
    ```  
 2. Navigate to the project folder and open the Jupyter Notebook:  
    ```bash
